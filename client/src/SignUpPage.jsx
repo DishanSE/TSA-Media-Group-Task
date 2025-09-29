@@ -41,7 +41,7 @@ export default function SignUpPage() {
         {/* Header */}
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-r from-purple-500 to-cyan-500 rounded-2xl mb-4 shadow-lg">
-            <span className="text-white font-bold text-xl">CP</span>
+            <span className="text-white font-bold text-xl">TSA</span>
           </div>
           <h1 className="text-4xl font-bold text-white mb-2">Create Account</h1>
           <p className="text-gray-400">Fill in the details to sign up</p>
